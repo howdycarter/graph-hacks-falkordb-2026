@@ -12,6 +12,7 @@ Ship a FalkorDB-backed AI agent in the 4-day Graph Hacks sprint (Oct 15–18, 20
 - [ ] Working agent deployed live (preferred) or with complete local setup instructions + demo video
 - [ ] FalkorDB is the primary graph database and central to what the agent does — removal test passes
 - [ ] Main FalkorDB implementation is new work completed Oct 15–18 (prep sketches done before are fine)
+- [ ] Registered on the WeMakeDevs event panel (Chris-held — registration not yet confirmed)
 - [ ] Submitted via the WeMakeDevs panel before **Oct 18, 2026, 11:59 PM IST (1:29 PM CDT)**
 - [ ] Blog post drafted (side prize: AirPods 5 for best blog post)
 - [ ] Chris explicitly approves the registration and submission before anything goes out
